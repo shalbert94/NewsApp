@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listItemHeight">100dp</dimen>
+
+    <dimen name="thumbnailWidth">100dp</dimen>
+</resources>

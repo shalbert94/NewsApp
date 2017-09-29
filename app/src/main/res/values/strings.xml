@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="article_name_example">Joshua Abrams &amp; Natural Information Society: Simultonality review – Africa soaring</string>
+
+    <string name="article_time_stamp_example">4:30 pm</string>
+</resources>
